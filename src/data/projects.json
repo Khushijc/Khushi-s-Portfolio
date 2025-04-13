@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Event KeyCodes",
+    "description": "A simple web page that listens for keypresses and displays the key and its ASCII (keyCode). Great for testing or learning about keyboard events.",
+    "imageSrc": "./projects/e.png",
+    "skills": [ "HTMl","CSS" ,"Javascript"],
+    "demo": "https://event-key-codes-beta.vercel.app/",
+    "source": "https://github.com/Khushijc/event-KeyCodes"
+  },
+  {
+    "title": "Akatsuki project",
+    "imageSrc": "./projects/a.png",
+    "description": "This is a project made to learn the latest languages like React,Node by building an app.",
+    "skills": ["React", "Tailwind CSS", "Node", "HTML"],
+    "demo": "https://akatsuki-project-mocha.vercel.app/",
+    "source": "https://github.com/Khushijc/Akatsuki-Project"
+  },
+  {
+    "title": "Parallax effect webpage",
+    "imageSrc": "./projects/p.png",
+    "description": "Uses CSS for a depth effect with parallax scrolling and ensures smooth layout adjustments across screen sizes with a modern dark theme.",
+    "skills": ["CSS", "HTML"],
+    "demo": "https://parallax-effect-webpage-design-with-html-and-css.vercel.app/",
+    "source": "https://github.com/Khushijc/Parallax-effect-webpage-design-with-HTML-and-CSS"
+  }
+]
